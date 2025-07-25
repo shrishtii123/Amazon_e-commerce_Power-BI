@@ -5,7 +5,6 @@
 
 This project analyzes Amazon's e-commerce sales data using **Microsoft Power BI**, highlighting key trends in revenue, customer behavior, product performance, and logistics efficiency.
 
-> 🔍 Developed as part of a Data Analytics capstone under the guidance of **Rushika Kale** and supported by **Newton School**.
 
 ---
 
